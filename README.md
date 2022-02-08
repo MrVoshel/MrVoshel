@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MrVoshel
+- 👀 I’m interested in optimizing code and front end development, although I'm still a novice
+- 🌱 I’m currently learning Svelte
+- 📫 [Contact me](https://voshel.tk/about)
