@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MrVoshel
 - 👀 I’m interested in writing code and front end development, although I'm still a novice
 - 🌱 I’m currently learning SvelteKit, UnoCSS, Supabase auth and db.
-- 📫 [Contact me](https://voshel.tk/)
+- 📫 [Contact me](https://voshel.xyz/)
